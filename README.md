@@ -3,7 +3,7 @@
   
 </p>
 <p align="center">
-  This time lapse shows the deep neural net learning to detect the cancerous cells in a tissue sample slide.
+  This time lapse shows the deep neural net learning to detect the cancerous cells in a tissue sample slide. (You may have to wait a moment for the animation to show the learning. Look for grey splotches that change size.)
 </p>
  
 <h1>Cancer Detection</h1>
